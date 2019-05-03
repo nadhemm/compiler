@@ -1,6 +1,6 @@
-# Project Title
+# Compilateur
 
-Compilateur en ligne
+Analyseur lexical, syntaxique et semantique d'une grammaire 
 
 ### Prerequisites
 ```
