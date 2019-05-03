@@ -31,4 +31,4 @@ make all clean
 
 ## Acknowledgments
 
-* ** Mr Kharroubi Yassine, development Engineer at WinSoft International**
+* Mr Kharroubi Yassine, development Engineer at WinSoft International
