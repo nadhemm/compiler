@@ -1,0 +1,9 @@
+program test
+	var y:int;
+{
+y=0;
+	if(y<10) then y=y+1
+	else y=y-1
+
+}
+.
